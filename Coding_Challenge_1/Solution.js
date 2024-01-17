@@ -1,8 +1,9 @@
-let johnMass = 90;
-let markMass = 80;
+let johnMass = 92;
+let johnHeight = 1.95;
 
-let johnHeight = 5;
-let markHeight = 4;
+let markHeight = 1.69;
+let markMass = 78;
+
 
 const johnBMI = johnMass / (johnHeight **2);
 console.log('John BMI' + ' '+ johnBMI)
