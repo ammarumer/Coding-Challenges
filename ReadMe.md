@@ -1,0 +1,1 @@
+These are self-done coding javascript challenges
